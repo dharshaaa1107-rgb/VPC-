@@ -75,7 +75,44 @@ aws iam attach-user-policy --user-name NewUser --policy-arn arn:aws:iam::aws:pol
 •	Creating an Access Key for a User:
 aws iam create-access-key --user-name NewUser
 
+## Snapshot 1: Create VPC image
+<img width="1038" height="617" alt="image" src="https://github.com/user-attachments/assets/c6f3f3e0-7939-4d7a-a6bd-66709ac219e1" />
 
+## Snapshot 2: Configuring Subnets
+<img width="1041" height="533" alt="image" src="https://github.com/user-attachments/assets/085ac35c-0d13-458f-83d5-b53f0107fcf8" />
+
+
+## Snapshot 3: Configure Subnets
+<img width="1203" height="689" alt="image" src="https://github.com/user-attachments/assets/af9b1682-3315-4a8c-a45f-eb5c9ac92da3" />
+
+
+## Snapshot 4: Setting Internet gateway
+<img width="1134" height="592" alt="image" src="https://github.com/user-attachments/assets/73609c7e-d6dc-40e7-90e8-ba0e104fb842" />
+
+
+## Snapshot 5: Creating Internet gateway
+<img width="1200" height="711" alt="image" src="https://github.com/user-attachments/assets/fc90a456-4e33-4ffd-9351-8eb293e1a444" />
+
+
+## Snapshot 6: Setting Internet gateway
+<img width="1186" height="604" alt="image" src="https://github.com/user-attachments/assets/7f71d946-62e1-4910-bab7-59c4caa4a679" />
+
+
+## Snapshot 7: Creating route table
+<img width="1171" height="636" alt="image" src="https://github.com/user-attachments/assets/66046acb-49d2-4310-abb7-d5f1c1f46c87" />
+
+
+## Snapshot 8: Configuring route table
+<img width="1156" height="704" alt="image" src="https://github.com/user-attachments/assets/98ad8fc8-5838-4a34-9bad-980b094397f8" />
+
+
+## Snapshot 9: Editing routes
+<img width="1191" height="602" alt="image" src="https://github.com/user-attachments/assets/b983853c-c932-4385-aefc-16054d36d9d9" />
+
+
+## Snapshot 10: Creating route table
+
+<img width="1159" height="584" alt="image" src="https://github.com/user-attachments/assets/e1f398da-380a-4b94-8752-4df2a82bfc21" />
 
 
 
